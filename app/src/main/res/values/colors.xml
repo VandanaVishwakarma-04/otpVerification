@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="colorPrimary">#FFC107</color>
+   <color name="colorPrimaryDark">#FFC107</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colortextfirst">#000000</color>
+    <color name="colortextsecond">#777474</color>
+    <color name="color_view">#A5A2A2</color>
+    <color name="material_dynamic_primary60">#FF123456</color> <!-- Replace #FF123456 with your desired color code -->
+   <color name="purple_500">#FFAB47BC</color>
+<color name="purple_700">#FF6A1B9A</color>
+    <color name="purple_200">#FF6A1B9A</color>
+<color name="teal_200">#FF80CBC4</color>
+<color name="teal_700">#FF00796B</color>
+<color name="black">#000000</color>
+    <color name="white">#FFF</color>
+
+        <color name="primary_color">#1976D2</color>
+        <!-- Other colors for night mode -->
+
+</resources>
